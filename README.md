@@ -11,7 +11,7 @@ SW Stats (named after guild Shadow Warrior) is a damage/heal (and more) meter ad
 * Deleted	StaticPopupDialogs["SW_Mem_Warning"]
 * Added mousewheel scrolling support
 
-Based on `Beta 7.1`
+Based on `SW_Stats Beta 7.1`
 
 # Instalation
 Put `SW_Stats`, `SW_FixLogStrings`, `FuBar_SWStatsFu` folders to `World of Warcraft\Interface\AddOns`
